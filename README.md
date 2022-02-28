@@ -8,7 +8,9 @@ was easy to understand. Written in this fashion the module is easy to understand
 <p>How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. 
 How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create 
 databases to meet other client requests?</p>
-<p></p>
+<p>As our coursework has shown us the way a computer scientist approaches a problem is to break it into managable pieces. We've had courses in how to break projects
+into the objects that are required to make the project data manageable. Then to define the methods needed to operate on those objects. It's all about making
+large projects into smaller projects until you are defining individual objects and methods.</p>
 
 <p>What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?</p>
 <p>Computer scientists do a variety of things. Only one of those things is write code.
