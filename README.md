@@ -1,9 +1,9 @@
 # CS-340
 
-How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to 
-connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
-Writing readable, maintainable, and adaptable code is done in small pieces. Our AnimalShelter module takes 4-6 tasks and did each one in a function. Each function
-was easy to understand. Written in this fashion the module is easy to understand and reuse.
+<p>How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to 
+connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?</p>
+<p>Writing readable, maintainable, and adaptable code is done in small pieces. Our AnimalShelter module takes 4-6 tasks and did each one in a function. Each function
+was easy to understand. Written in this fashion the module is easy to understand and reuse.</p>
 
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. 
 How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create 
